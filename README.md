@@ -1,4 +1,7 @@
-## Hi there 👋
+- 👋 Hi, I’m Dominic Doringo
+- 👀 I’m interested in Web Development, Data Science, and Embedded System programming
+- 🎓 I’m currently a Computer Engineering Student at San Diego State University
+- 📫 How to reach me: dominicdoringo619@gmail.com 
 
 <!--
 **dominicdoringo/dominicdoringo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
