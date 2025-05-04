@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Dominic Doringo
+- 👋 Hi, I’m Dominic Hickman
 - 👀 I’m interested in Web Development, Data Science, and Embedded System programming
 - 🎓 I’m currently a Computer Engineering Student at San Diego State University
 - 📫 How to reach me: dominicdoringo619@gmail.com 
